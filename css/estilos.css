@@ -10,3 +10,11 @@ body{
     margin-left: 25%;
     margin-top: 10%;
 }
+#footer{
+    margin-bottom: 0%;
+    background-color: black;
+}
+#footer a{
+    color: white;
+    margin-left: 25%;
+}
